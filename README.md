@@ -1,4 +1,9 @@
-<img src="chico.svg" alt="GitHub Banner" width="100%" />
+<!-- mantém 100 % da largura, mas força um recorte vertical -->
+<img
+  src="francisco.svg"
+  alt="GitHub Banner"
+ />
+
 
 # Hello, I'm **Francisco Gabriel**, a Full Stack Developer and M.Sc. in Computer Science 👋🏼: 
 
