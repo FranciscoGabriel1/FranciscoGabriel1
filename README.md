@@ -7,8 +7,8 @@
 
 # Hello, I'm **Francisco** (but you can call me Chico) 👋🏼
 
-I'm a Software Developer and M.Sc. in Computer Science, passionate about using technology to solve real-world problems.  
-With a strong background in web and mobile development, I've had the opportunity to work across various industries - from fuel distribution to creative platforms for screenwriting.
+I'm a Brazilian 🇧🇷 Software Developer and M.Sc. in Computer Science, with expertise in front-end engineering.  
+Passionate about using technology to solve real-world problems, I have a strong background in web and mobile development and have worked across various industries—from fuel distribution to creative platforms for screenwriting.
 
 Feel free to connect or reach out!
 
