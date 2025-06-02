@@ -1,6 +1,6 @@
 <!-- mantém 100 % da largura, mas força um recorte vertical -->
 <img
-  src="francisco.svg"
+  src="chico.jpeg"
   alt="GitHub Banner"
  />
 
