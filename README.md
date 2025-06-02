@@ -7,7 +7,7 @@
 
 # Hello, I'm **Francisco** (but you can call me Chico) 👋🏼
 
-I'm a Brazilian 🇧🇷 Software Developer and M.Sc. in Computer Science, with expertise in front-end engineering.  
+I'm a 🇧🇷 Software Developer and M.Sc. in Computer Science, with expertise in front-end engineering.  
 Passionate about using technology to solve real-world problems, I have a strong background in web and mobile development and have worked across various industries—from fuel distribution to creative platforms for screenwriting.
 
 Feel free to connect or reach out!
@@ -63,7 +63,7 @@ Feel free to connect or reach out!
 
 ---
 
-### 🗄️ Banco de Dados
+### 🗄️ Database
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -79,7 +79,7 @@ Feel free to connect or reach out!
 
 ---
 
-### 🔧 Ferramentas & Outras Skills
+### 🔧 Tools & Others Skills
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
