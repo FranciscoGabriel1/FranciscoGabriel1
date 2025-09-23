@@ -1,6 +1,6 @@
 <!-- mantém 100 % da largura, mas força um recorte vertical -->
 <img
-  src="chico.jpeg"
+  src="chico.svg"
   alt="GitHub Banner"
  />
 
@@ -108,13 +108,7 @@ Feel free to connect or reach out!
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FranciscoGabriel1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FranciscoGabriel1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FranciscoGabriel1&icon=0&color=0)](https://visitcount.itsvg.in)
